@@ -1,1 +1,83 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "halfinamoon",
+  "headerTaglineOne": "🌙",
+  "headerTaglineTwo": "I'm Heru Mulyana -",
+  "headerTaglineThree": "ponderer and developer",
+  "headerTaglineFour": "moving by writing.",
+  "showCursor": false,
+  "showBlog": true,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/herukan" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://linkedin.com/in/herukan"
+    },
+    { "id": "3", "title": "Twitter", "link": "https://x.com/halfinamoon" },
+    { "id": "4", "title": "Medium", "link": "https://medium.com/@halfinamoon" },
+    { "id": "5", "title": "Email", "link": "mailto:heru842@gmail.com" }
+  ],
+  "projects": [],
+  "services": [],
+  "aboutpara": "I am Heru, a Versatile and Creative problem-solver nurtured by collaborations with fellow Co-Researchers, Doctors, Stakeholders, and Software Engineer in my few years of experience of delivering solutions to solve complex technical challenges. Integrity and Assertive enthusiasm I’ve devoted in every project is the necessity to Implement Machine Learning Solution to the Production level, through my adaptability across Frontend, Mobile, and Backend technology stack to generate effective design solutions.",
+  "resume": {
+    "tagline": "👋  I am Heru, a Versatile and Creative problem-solver",
+    "description": "Solver is nurtured by collaborations with fellow Co-Researchers, Doctors, Stakeholders, and Software Engineer in my few years of experience of delivering solutions to solve complex technical challenges. Integrity and Assertive enthusiasm I’ve devoted in every project is the necessity to Implement Machine Learning Solution to the Production level, through my adaptability across Frontend, Mobile, and Backend technology stack to generate effective design solutions.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Aug 2018 - Jun 2021",
+        "type": "Contract",
+        "position": "Machine Learning and Software Engineer",
+        "bullets": "Designing and Developing Machine Learning and Deep Learning Systems, with a proven track record in implementing appropriate ML algorithms to the production level., Developed UI prototypes and design documentation and developed it into Viable Product., Designing and Developing Fullstack and Mobile App various backend and frontend frameworks. ,Successfully created 2 Minimum Viable Product along with their Intellectual Property Rights. ,Presenting the innovation and creativity of the Products into the International and National scientific conferences as an oralist., Demonstrated expertise in running Machine Learning tests and experiments optimizing systems to achieve up to 93% accuracy., Conducted System Usability Scale (SUS) testing on an application receiving positive feedback from respondents (medical students and otorhinolaryngologists)"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Sept 2018 – Nov 2018",
+        "type": "Contract",
+        "position": "Full-Stack Software Engineer",
+        "bullets": "Designing and Developing Fullstack Web Application using various backend and frontend frameworks, Nurtured by collaborative Governmental teamwork that embracing assertive communication and analytical skills, Thoroughly understanding governmental need through desk research and interviews including a comprehensive competitive analysis to identify strengths and weaknesses of the client, Develop and manage a customer database including police number transaction number active date and customer's balance., Maintain and improve the Vehicle Rent and Maintenance System, ensuring smooth operations and user-friendly interfaces"
+      }
+    ],
+    "publication": [
+      {
+        "id": "1",
+        "dates": "Issued Nov 17, 2018 ",
+        "type": "Patent office Indonesia, number id 000125174",
+        "position": "Researcher and Software Engineer",
+        "bullets": "Pornographic Image Detection Application Using the Convolutional Neural Network Model for Android-Based Smartphones"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Issued Sep 1, 2019",
+        "type": "Patent office Indonesia, number id 000154185",
+        "position": "Researcher and Software Engineer",
+        "bullets": "Porn Away (Application to Detect and Quarantine Porn Pictures and Videos on Android Smart Devices)"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089745",
+        "dates": "Issued 2021",
+        "type": "Citation H Kadriyan et al 2021 IOP Conf. Ser.: Earth Environ. Sci. 712012022",
+        "position": "Researcher and Software Engineer",
+        "bullets": "Ear disease determination on computer-assisted outer and middle ear images"
+      }
+    ],
+    "education": {
+      "universityName": "Bachelor of Informatics Engineering",
+      "universityDate": "2015-2020",
+      "universityPara": "University of Mataram / Lombok, Graduated with G.P.A of 3.12 Out of 4.0"
+    },
+    "languages": ["Python", "R", "Kotlin", "Javascript", "Java"],
+    "frameworks": [
+      "Tensorflow",
+      "Pytorch",
+      "React",
+      "Laravel",
+      "Flask",
+      "Flutter"
+    ],
+    "others": ["Tableu", "Obsidian"]
+  }
+}

@@ -47,7 +47,7 @@ const Resume = () => {
             >
               <h1 className="text-3xl font-bold">{name}</h1>
               <h2 className="text-xl mt-5">{resume.tagline}</h2>
-              <h2 className="w-4/5 text-xl mt-5 opacity-50">
+              <h2 className="w-50 text-l mt-5 opacity-50">
                 {resume.description}
               </h2>
               <div className="mt-2">
@@ -68,6 +68,23 @@ const Resume = () => {
                   )
                 )}
               </div>
+              
+              <div className="mt-5">
+                <h1 className="text-2xl font-bold">Patent and Publication</h1>
+
+                {resume.publication.map(
+                  ({ id, dates, type, position, bullets }) => (
+                    <ProjectResume
+                      key={id}
+                      dates={dates}
+                      type={type}
+                      position={position}
+                      bullets={bullets}
+                    ></ProjectResume>
+                  )
+                )}
+              </div>
+
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Education</h1>
                 <div className="mt-2">
