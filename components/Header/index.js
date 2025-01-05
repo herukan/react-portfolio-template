@@ -13,7 +13,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
 
   const { name, showBlog, showResume } = data;
 
-  localStorage.theme = 'light'
+  localStorage.darkMode = 'light'
 
   useEffect(() => {
     setMounted(true);
@@ -33,8 +33,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </h1>
 
               <div className="flex items-center">
-
-                {/* {data.darkMode && (
+                {data.darkMode && (
                   <Button
                     onClick={() =>
                       setTheme(theme === "dark" ? "light" : "dark")
@@ -47,7 +46,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                       }`}
                     ></img>
                   </Button>
-                )} */}
+                )}
 
                 <Popover.Button>
                   <img
@@ -151,7 +150,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
               Contact
             </Button>
-            {/* {mounted && theme && data.darkMode && (
+            {mounted && theme && data.darkMode && (
               <Button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
               >
@@ -161,7 +160,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 ></img>
               </Button>
             )}
-          </div> */}
+          </div>
         ) : (
           <div className="flex">
             <Button onClick={() => router.push("/")}>Home</Button>
@@ -181,7 +180,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               Contact
             </Button>
 
-            {/* {mounted && theme && data.darkMode && (
+            {mounted && theme && data.darkMode && (
               <Button
                 onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
               >
@@ -190,7 +189,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 ></img>
               </Button>
-            )} */}
+            )}
           </div>
         )}
       </div>
