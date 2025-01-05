@@ -6,7 +6,7 @@
   "headerTaglineFour": "moving by writing.",
   "showCursor": false,
   "showBlog": true,
-  "darkMode": true,
+  "darkMode": false,
   "showResume": true,
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/herukan" },
