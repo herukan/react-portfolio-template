@@ -106,7 +106,7 @@
       "universityDate": "2015-2020",
       "universityPara": "University of Mataram / Lombok, Graduated with G.P.A of 3.12 Out of 4.0"
     },
-    "languages": ["Python", "R", "Kotlin", "Javascript", "Java"],
+    "languages": ["Python", "R", "Kotlin", "Javascript", "Java", "HTML"],
     "frameworks": [
       "Tensorflow",
       "Pytorch",
